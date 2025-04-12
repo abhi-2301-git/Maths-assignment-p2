@@ -1,1 +1,23 @@
-hi
+Q9. Download any dataset from Kaggle or other platform of your choice, do analysis using python
+and answer the following. Note that here for comparison use of ‘p-value’ is preferable.
+
+(a) Based on a random sample drawn from the dataset, how does the sample mean of a key
+numerical variable compare to the population mean? What might explain any differences?
+
+(b) Construct and interpret a 95% confidence interval for the mean of a numerical variable.
+What does the interval suggest about the population mean?
+
+(c) Create and interpret a confidence interval for the proportion of a chosen categorical
+variable. How reliable is this interval for decision-making?
+
+(d) Check the implications of increasing the sample size when estimating the mean of a
+variable. How does it affect the confidence interval width?
+
+(e) Conduct a Chi-square test for independence between two categorical variables. Based on
+the p-value and test result, interpret whether there is a significant association.
+
+(f) Perform a Chi-square goodness-of-fit test for a categorical variable. Interpret whether the
+observed distribution aligns with an expected distribution.
+
+(g) Build a simple linear regression model to predict a numerical variable using another
+numerical variable. Interpret the regression coefficients and their implications.
